@@ -1,0 +1,5 @@
+@charset "utf-8";
+/* CSS Document */
+*{box-sizing:border-box}
+.container .jumbotron{ background-color:lightgray;}
+.container .btn{ background-color:#500406; margin-top:40px;}

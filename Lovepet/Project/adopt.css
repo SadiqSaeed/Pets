@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+
+.row img{
+	border:3px solid gray;
+	border-bottom-width:1px;
+	  height:inherit;
+	  width:100%;
+	  overflow:hidden;
+  }
+  .info{ 
+   padding:20px;
+  border:3px solid gray;
+  border-top-width:1px;
+  background:#CCC;}

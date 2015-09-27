@@ -1,0 +1,62 @@
+/* CSS Document */
+
+*{ box-sizing:border-box}
+html body {
+	 background:#FF9; height:auto; margin:auto;}
+.main-header{
+	height:90px;
+	width:auto;
+	background-color:#500406;
+	
+}
+
+._logo a{
+	position:absolute;
+	left:30px;
+	top:25px;
+	text-decoration:none;
+	font-size:36px;
+	color:#FFF;
+	font-family:"Times New Roman", Times, serif;
+	font-weight:bold;
+	 
+}
+ ._logo a{
+	  color:#fff;}
+ ._menus ul {
+	 float:left;
+	 position:absolute;
+	 top:30px;
+	 right:50px;
+    list-style-type: none;
+   
+}
+._menus li {
+    float:left;
+}
+._menus a {
+    display: block;
+    width:80px;
+	height:35px;
+	color:white;
+	font-size:18px;
+	font-weight:bold;
+	background-color:#500406;
+	text-decoration:none;
+	opacity:0.9;
+	padding-top:9px;
+	padding-left:10px;
+	padding-right:10px;
+}
+  ._menus ._ex a{ display:block; width:125px;
+	padding-right:10px;}
+  ._menus a:hover{ background-color:#500406;
+  opacity:0.5}
+  
+  ._petimg img{
+	  height:inherit;
+	  width:100%;
+	  overflow:hidden;
+  }
+ ._petarticale h1 { color:#500406}
+ 
